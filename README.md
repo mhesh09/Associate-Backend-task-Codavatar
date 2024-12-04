@@ -1,4 +1,4 @@
-# **Backend Task - Intern**
+# **Backend Task**
 ## **Overview:** This repository contains tasks for backend development. The tasks are designed to assess skills.
 ## **Purpose**
 - Assign and track backend development tasks for interns.
