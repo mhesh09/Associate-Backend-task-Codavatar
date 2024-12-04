@@ -19,3 +19,10 @@ Candidates should provide a solution that includes the following:
 - Clear and organized code structure with appropriate comments.
 
 You will be evaluated on the quality and correctness of the code, adherence to best practices, consideration for scalability, agility and modularity, and overall approach to the task.
+
+## Task Submission Instructions
++ Fork the Repository
++ Clone Your Fork
++ Work on the Task
++ Push Your Changes
++ Submit a Pull Request (PR)
