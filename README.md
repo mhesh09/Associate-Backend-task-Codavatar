@@ -1,11 +1,21 @@
-# **Backend Task**
-## **Overview:** This repository contains tasks for backend development. The tasks are designed to assess skills.
-## **Purpose**
-- Assign and track backend development tasks for interns.
-## **Task Details**
-Each task is created as a GitHub Issue. Please follow these steps to complete your assigned task:
-1. Check the **Issues** tab for tasks assigned to you.
-2. Read the task details and requirements carefully.
-3. Create a new branch for your task using the naming convention
-4. Work on the task and commit your changes. Ensure to write clear commit messages.
-5. Once the task is complete, open a Pull Request and assign it to your reviewer.
+# **Task : Cloud Telephony API Development (Scoped Version)**
+## **Description:** 
+You are tasked with building a simplied set of APIs for a cloud telephony company. The APIs will allow users to manage virtual phone numbers by creating and retrieving them. You should use a web programming framework (such as Django or Flask) in Python and choose either REST or GraphQL as the API protocol.
+## **Requirements:**
+Design and create the necessary database models for the following entities:
++ User: Represents a user of the cloud telephony platform.
++ VirtualPhoneNumber: Represents a virtual phone number owned by a user.
++ CallLog: Represents a log of phone calls made or received by a virtual phone number.
+
+Implement the following API endpoints:
++ Endpoint 1: Retrieve a list of virtual phone numbers owned by a user.
++ Endpoint 2: Create a new virtual phone number for a user.
+
+## Evaluation: 
+Candidates should provide a solution that includes the following:
+- Database models representing the User and VirtualPhoneNumber entities.
+- API endpoints implemented using the chosen web programming framework (REST or GraphQL).
+- Proper request/response handling and basic validation.
+- Clear and organized code structure with appropriate comments.
+
+You will be evaluated on the quality and correctness of the code, adherence to best practices, consideration for scalability, agility and modularity, and overall approach to the task.
