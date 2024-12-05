@@ -1,6 +1,6 @@
 # **Task : Cloud Telephony API Development (Scoped Version)**
 ## **Description:** 
-You are tasked with building a simplied set of APIs for a cloud telephony company. The APIs will allow users to manage virtual phone numbers by creating and retrieving them. You should use a web programming framework (such as Django or Flask) in Python and choose either REST or GraphQL as the API protocol.
+You are tasked with building a simplied set of APIs for a cloud telephony company. The APIs will allow users to manage virtual phone numbers by creating and retrieving them. You should use a web programming framework (such as fastAPI framework) in Python and choose either REST or GraphQL as the API protocol.
 ## **Requirements:**
 Design and create the necessary database models for the following entities:
 + User: Represents a user of the cloud telephony platform.
